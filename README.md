@@ -10,15 +10,6 @@ More than one-half of all traffic deaths globally occur among people ages 15 to 
 <img src="docs/project_overview.png">
 
 
-## *PROJECT DIRECTORY >>* 
-/---
-    |__src/   
-    |__docs/
-    |__data/
-    |__visualization/
-    |__project(venv)
-    |__jar_files
-    |__requirements.txt
-    |__README.md
-        
+## *PROJECT DIRECTORY OVERVIEW >>* 
+<img src="docs/project_file_system.png">
 
