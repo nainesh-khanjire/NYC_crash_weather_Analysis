@@ -9,5 +9,4 @@ pymongo
 pyspark
 plotly
 dash
-scikit-learn-extra
 
