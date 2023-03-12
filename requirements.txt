@@ -1,0 +1,13 @@
+pandas
+fastparquet
+numpy
+seaborn
+scikit-learn
+matplotlib
+requests
+pymongo
+pyspark
+plotly
+dash
+scikit-learn-extra
+
