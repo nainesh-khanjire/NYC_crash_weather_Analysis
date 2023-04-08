@@ -2,7 +2,7 @@
 
 Traffic crashes have a significant impact on the world economy and are a leading cause of death and injuries worldwide. More than one-half of all traffic deaths globally occur among people ages 15 to 44, their most productive earning years. This project is developed to understand feature correlations, patterns and analyse trends with the current weather conditions in the area of the accident. To develop this system end to end, first we need to extract vehicle crash dataset from the NYC open data website  and web scrape weather data from wunderground website.  Traffic crashes have a significant impact on the world economy and are a leading cause of death and injuries worldwide.
 
-## link to the deployment >  <a href="https://nyc-crash-analysis.netlify.app/">VISUALIZATION DASHBOARD</a>
+## link to the deployment >  <a href="https://nainesh-khanjire.github.io/nyc.github.io/">VISUALIZATION DASHBOARD</a>
 
 
 
