@@ -81,6 +81,7 @@ with open('data/weather_scraping.csv', mode='w', newline='') as file:
                     'minimum_temp' : minimum_temp,
                     'precipitation_rate' : precipitation_rate,
                     'snow_rate' : snow_rate})
+                    
 
     else:
         print(f"Error {response.status_code}: {response.text}")
